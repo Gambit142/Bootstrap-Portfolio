@@ -1,3 +1,15 @@
 body {
   background-color: #191765 !important;
 }
+
+.headline {
+  max-width: 27.94rem !important;
+}
+
+header {
+  max-width: 27.94rem !important;
+}
+
+.languages {
+  max-width: 27.94rem !important;
+}

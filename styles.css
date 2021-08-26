@@ -13,3 +13,7 @@ header {
 .languages {
   max-width: 27.94rem !important;
 }
+
+.btn {
+  background-color: #413bfa !important;
+}

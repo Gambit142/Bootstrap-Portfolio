@@ -1,3 +1,29 @@
 body {
   background-color: #191765 !important;
 }
+
+.card {
+  background-color: #191765 !important;
+}
+
+.headline {
+  max-width: 27.94rem !important;
+}
+
+.languages {
+  max-width: 27.94rem !important;
+}
+
+.btn {
+  background-color: #413bfa !important;
+}
+
+.contact-form {
+  margin-top: 7.5rem;
+}
+
+@media screen and (min-width: 992px) {
+  .contact-form {
+    margin-top: 14.25rem;
+  }
+}
